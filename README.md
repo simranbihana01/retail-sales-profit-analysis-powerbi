@@ -56,3 +56,8 @@ Additional analysis was performed using Python to explore:
 2. Open it using Power BI Desktop
 3. Interact with filters and visuals
 ---
+## 📌 Business Impact
+- Identified loss-making product categories  
+- Highlighted impact of discounting on profit  
+- Enabled data-driven pricing and product decisions
+---
